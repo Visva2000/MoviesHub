@@ -12,5 +12,7 @@ Key Features:
 
 4. Firebase Hosting: "Movies Hub" is hosted on Firebase, ensuring swift loading times and secure deployment for movie lovers worldwide.
 
+Note: Please connect to VPN before accessing the website, since TMDb is currently not available in India.
+
 
 **Website Link:** https://movieshub-25ff2.web.app/
